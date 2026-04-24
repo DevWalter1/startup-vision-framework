@@ -29,6 +29,7 @@ Dieses Repository enthält:
 | `04-success-examples.md` | Beispiele von erfolgreichen Startup-Visionen |
 | `05-your-templates.md` | **Templates zum Ausfüllen** |
 | `06-guidelines-principles.md` | Guidelines: Was wir sind / Was wir nicht sind |
+| `07-identity-story.md` | **Identity Story für Messen & Networking** |
 
 ---
 
